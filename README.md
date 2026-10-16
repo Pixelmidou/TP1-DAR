@@ -40,10 +40,10 @@ Deux améliorations :
 2. **Quatre opérations** — le client affiche un menu (Addition, Soustraction, Multiplication, Division), envoie l'opération choisie et deux opérandes (`double`), et le serveur répond soit avec le résultat, soit avec un message d'erreur (division par zéro).
 
 #### Côté Serveur (`Server_1_3.java`)
-![Serveur 1_3](https://i.postimg.cc/3RjWTTRn/server-1-3.jpg)
+![Serveur 1_3](https://i.postimg.cc/4dvnggdF/client-1-3.jpg)
 
 #### Côté Client (`Client_1_3.java`)
-![Client 1_3](https://i.postimg.cc/4dvnggdF/client-1-3.jpg)
+![Client 1_3](https://i.postimg.cc/3RjWTTRn/server-1-3.jpg)
 
 ---
 
